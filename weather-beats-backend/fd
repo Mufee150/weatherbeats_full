@@ -1,4 +1,0 @@
-const MONGODB_URI = "mongodb+srv://mufeedhaaliyar:mufeedha1234@cluster0.bmvnvmv.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
-const SPOTIFY_CLIENT_ID = 'aa72f847205e40ba93e47f9365c929d7';
-const SPOTIFY_CLIENT_SECRET = '3b7cd92609e44851bbcc5d2a53c01513';
-const OPENWEATHER_API_KEY = "3fcdd94a2a11bc9ad75318c569162975";
