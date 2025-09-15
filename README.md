@@ -2,6 +2,7 @@
 **WeatherBeats 🎶**
 
 WeatherBeats is a cross-platform mobile and web application that connects the local weather to your mood and provides a personalized experience. Instead of just a standard weather forecast, it suggests music, clothing, and tips based on your location and emotional state. The app is built with Flutter for the frontend and Node.js for the backend.
+
 DEMO WORKING:https://drive.google.com/file/d/11k1Ru-966LvodixLAJfSGfkn59iXSPrl/view?usp=sharing
 
 **How It Works ⚙️**
