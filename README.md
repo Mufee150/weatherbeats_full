@@ -1,9 +1,9 @@
 
-WeatherBeats 🎶
+**WeatherBeats 🎶**
 
 WeatherBeats is a cross-platform mobile and web application that connects the local weather to your mood and provides a personalized experience. Instead of just a standard weather forecast, it suggests music, clothing, and tips based on your location and emotional state. The app is built with Flutter for the frontend and Node.js for the backend.
 
-How It Works ⚙️
+**How It Works ⚙️**
 
 The app follows a client-server architecture. When a user opens the app:
 
@@ -26,7 +26,7 @@ The app follows a client-server architecture. When a user opens the app:
 This system ensures that the logic for fetching and combining data is handled server-side, keeping the frontend lightweight and efficient.
 
 
-How to Run Locally 💻
+**How to Run Locally 💻**
 
 To run this project locally, you will need to set up both the backend and frontend.
 
@@ -60,7 +60,7 @@ const SPOTIFY_CLIENT_SECRET = "YOUR_SPOTIFY_CLIENT_SECRET";
 const OPENWEATHER_API_KEY = "YOUR_OPENWEATHERMAP_API_KEY";
 
 Start the backend server:
-Bash
+
 
     node server.js
 
@@ -73,13 +73,9 @@ Frontend Setup
     Ensure your backend server is running.
 
     Run the Flutter app. For a web browser, use:
-    Bash
-
-flutter run -d chrome
+    flutter run -d chrome
 
 For a mobile device or emulator, use:
-Bash
-
     flutter run
 
 The app will now be running and connected to your local backend server.
