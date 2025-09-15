@@ -47,8 +47,6 @@ Backend Setup
     Navigate to the backend folder in your terminal.
 
     Install the required Node.js packages:
-    Bash
-
 npm install
 
 Create a .env file or directly add your API keys in server.js:
